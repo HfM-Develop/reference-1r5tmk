@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HfM-Develop.github.io/reference-1r5tmk/sitemap.xml
